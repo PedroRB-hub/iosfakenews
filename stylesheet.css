@@ -32,7 +32,6 @@ h1 {
 /*conteudo*/
 .conteudo {
   width: 1080px;
-  /* topo | direita | inferior | esquerda */
   margin: 50px auto 20px auto;
   display: flex;
   flex-wrap: wrap;
